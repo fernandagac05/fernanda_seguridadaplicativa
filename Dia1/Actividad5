@@ -1,0 +1,51 @@
+1. ¿Qué es una red?
+Es el conjunto de varios nodos conectados.
+
+2. ¿Qué es el modelo TCP/IP?
+Las estapas/capas que definen un paquete de datos que viaja en una red. Protocolos.
+
+3. ¿Qué es una IP?
+Es la dirección lógica de los dispositivos conectados a internet.
+
+4. ¿Qué es el protocolo TCP?
+Es el protocolo que define como se van a transferir los datos, a través de que puertos y en que orden.
+
+5. Dentro de TCP, ¿qué es HTTP?
+Es el protocolo que define la estructura del conjunto de datos para su transferencia.
+
+6. Puerto HTTP.
+80
+
+7. Puerto HTTPS.
+443
+
+8. Diferencia HTTP/HTTPS.
+HTTPS es el protocolo seguro que cifra la transferencia de datos. HTTP es no seguro.
+
+9. ¿Qué significa el modelo cliente-servidor?
+La forma en la que se van a comunicar los usuarios finals con la BD a consultar.
+
+10. ¿Qué es una petición (request)?
+Cuando se pide a la BD que nos regrese algún dato.
+
+11. ¿Qué es una respuesta (response)?
+Cuando la BD nos da de resultado el dato pedido en el request.
+
+12. Secciones de una petición.
+Protocolo, (GET, POST...), fecha y hora,
+
+13. Secciones de una respuesta.
+Protocolo, datos, fecha y hora,
+
+14. ¿El código de respuesta 404 y 500 a qué se refiere?
+404: no se encontró info del request
+500: 
+
+15. Lenguajes para Back End.
+Python, Java.
+
+16. Lenguajes para Front End.
+Java
+.
+17. ¿Qué es Burp Suite?
+No lo conozco.
