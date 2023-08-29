@@ -1,0 +1,1 @@
+echo "Hosts activos: " $(nmap localhost | tail -n 1 | cut -d "(" -f 2 | cut -d " " -f 1);
