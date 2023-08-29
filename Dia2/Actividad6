@@ -1,0 +1,7 @@
+mkdir /home/feygcc/herramientas
+mkdir /home/feygcc/herramientas/deb
+mv /home/feygcc/Downloads/code_1.81.1-1691620686_amd64.deb /home/feygcc/herramientas/deb
+mkdir bak
+cp /home/feygcc/herramientas/deb/code_1.81.1-1691620686_amd64.deb /home/feygcc/bak
+sudo dpkg -i /home/feygcc/herramientas/deb/code_1.81.1-1691620686_amd64.deb
+echo "Instalacion exitosa"
